@@ -10,7 +10,7 @@
 
 ## Connect with Me 🚀
 
-- 📧 [fabian7orozco@gmail.com](fabian7orozco@gmail.com)
+- 📧 <fabian.orozcochaves@ucr.ac.cr>
 - 🎨 [Dribbble/fabian-orozco](https://dribbble.com/Fabian-Orozco)
 - 💼 [LinkedIn/in/fabián-orozco](https://www.linkedin.com/in/fabi%C3%A1n-orozco-chaves-b042171b1/)
 
