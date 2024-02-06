@@ -10,10 +10,11 @@
 
 ## Connect with Me 🚀
 
-- [Telegram/fabianorozco](https://t.me/fabianorozco) 
-- 📧 <fabian.orozcochaves@ucr.ac.cr>
-- 🎨 [Dribbble/fabian-orozco](https://dribbble.com/Fabian-Orozco)
 - 💼 [LinkedIn/in/fabián-orozco](https://www.linkedin.com/in/fabi%C3%A1n-orozco-chaves-b042171b1/)
+- 🎨 [Portfolio-Dribbble/fabian-orozco](https://dribbble.com/Fabian-Orozco)
+- 🎈 [Telegram/fabianorozco](https://t.me/fabianorozco) 
+- 📧 <fabian.orozcochaves@ucr.ac.cr>
+
 
 <!---
 Fabian-Orozco/Fabian-Orozco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
