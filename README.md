@@ -2,7 +2,7 @@
 
 ## About Me
 
-🎓 I'm a Software Engineer passionate about creating innovative solutions and learning new technologies.
+🎓 I'm a Software Engineer graduate from the University of Costa Rica, passionate about creating innovative solutions and learning new technologies.
 
 🌱 Currently, I'm working with C++, Web Development, and embedded devices.
 
