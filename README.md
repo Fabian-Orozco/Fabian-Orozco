@@ -13,7 +13,7 @@
 - 💼 [LinkedIn/in/fabián-orozco](https://www.linkedin.com/in/fabi%C3%A1n-orozco-chaves-b042171b1/)
 - 🎨 [Portfolio-Dribbble/fabian-orozco](https://dribbble.com/Fabian-Orozco)
 - 🎈 [Telegram/fabianorozco](https://t.me/fabianorozco) 
-- 📧 <fabian.orozcochaves@ucr.ac.cr>
+- 📧 <fabian7orozco@gmail.com>
 
 
 <!---
