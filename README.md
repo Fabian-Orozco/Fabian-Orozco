@@ -4,7 +4,7 @@
 
 🎓 I'm a Software Engineer graduate from the University of Costa Rica, passionate about creating innovative solutions and learning new technologies.
 
-🌱 Currently, I'm working with Web Development with Angular, React and Django.
+🌱 I'm currently working on web development with Angular, React and Django.
 
 💼 I'm open to exciting job opportunities and collaborations.
 
