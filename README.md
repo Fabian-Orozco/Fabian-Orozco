@@ -11,7 +11,7 @@
 ## Connect with Me 🚀
 
 - 💼 [LinkedIn/in/fabián-orozco](https://www.linkedin.com/in/fabi%C3%A1n-orozco-chaves-b042171b1/)
-- 🎨 [Portfolio-Dribbble/fabian-orozco](https://dribbble.com/Fabian-Orozco)
+- 🎨 [Portfolio-Dribbble/fabian-orozco](https://dribbble.com/fabian-orozco)
 - 📧 <fabian7orozco@gmail.com>
 
 
